@@ -40,7 +40,7 @@ public class TestListActivity extends ListActivity implements CompoundButton.OnC
 
         SharedPreferences sp = getSharedPreferences(Constant.TEST_SINGLE_MODE, MODE_PRIVATE);
         CheckBox cb = (CheckBox) v.findViewById(R.id.single_mode);
-        cb.setChecked(sp.getBoolean(Constant.TEST_SINGLE_MODE, true));
+        cb.setChecked(sp.getBoolean(Constant.TEST_SINGLE_MODE, false));
         cb.setOnCheckedChangeListener(this);
 
         ActionBar.LayoutParams lp = new ActionBar.LayoutParams(ActionBar.LayoutParams.WRAP_CONTENT, ActionBar.LayoutParams.WRAP_CONTENT);
