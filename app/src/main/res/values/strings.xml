@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"硬件功能测试"</string>
+    <string name="single_mode">"单项模式"</string>
+    <string name="test_list_empty">"没有测试项"</string>
+    <string name="pass_text">"通过"</string>
+    <string name="fail_text">"失败"</string>
+    <string name="exit_text">"退出"</string>
+
+    <!-- version -->
+    <string name="version_title">"版本信息"</string>
+    <string name="version_software_desc">"下面显示的是软件版本信息"</string>
+    <string name="version_software_codename">"CodeName："</string>
+    <string name="version_software_incremental">"Incremental："</string>
+    <string name="version_software_release">"Release："</string>
+    <string name="version_software_sdk">"SDK："</string>
+    <string name="version_software_baseband">"基带版本："</string>
+    <string name="version_software_display">"版本号："</string>
+    <string name="version_hardware_desc">"下面显示的是硬件版本信息"</string>
+    <string name="version_hardware_board">"Board："</string>
+    <string name="version_hardware_model">"Model："</string>
+    <string name="version_hardware_device">"Device："</string>
+    <string name="version_hardware_manufacture">"Manufacture："</string>
+    <string name="version_hardware_sn">"SN："</string>
+    <string name="version_hardware_mac">"MAC："</string>
+
+    <!-- lcd -->
+    <string name="lcd_title">"LCD测试"</string>
+    <string name="lcd_desc">"屏幕会显示不同颜色，请检查屏幕是否有黑点和亮点，点击屏幕开始"</string>
+
+    <!-- backlight -->
+    <string name="backlight_title">"背光和键盘灯测试"</string>
+    <string name="backlight_desc">"请检查背光灯和按键灯是否正常，点击屏幕开始"</string>
+    <string name="backlight_on">"背光和键盘灯开启"</string>
+    <string name="backlight_off">"背光和键盘灯关闭"</string>
+    <string name="backlight_def">"背光和键盘灯恢复"</string>
+
+    <!-- key -->
+    <string name="key_title">"按键测试"</string>
+    <string name="key_desc">"下面显示的是当前按下的按键，请手动点击底部4个触摸按钮"</string>
+
+    <!-- touch -->
+    <string name="touch_title">"触摸屏测试"</string>
+    <string name="touch_desc">"请分别对屏幕边界和中心区域进行单指划线测试，双击屏幕完成"</string>
+
+    <!-- charger -->
+    <string name="charger_title">"充电器测试"</string>
+    <string name="charger_plug_in">"请插入充电器"</string>
+    <string name="charger_plugged">"充电器已插入"</string>
+
+    <!-- wifi -->
+    <string name="wifi_title">"WIFI信号测试"</string>
+    <string name="wifi_desc">"系统定时刷新WIFI信号，请查看信号强度是否正常，点击屏幕开始"</string>
+    <string name="wifi_timeout">"获取Wi-Fi信号超时！"</string>>
+    <string name="wifi_nofound">"未搜索到Wi-Fi信号！"</string>>
+    <string name="wifi_search">"扫描WIFI信号..."</string>>
+
+    <!-- unknown -->
+    <string name="unknown_title">"未知测试"</string>
+
+
+    <string name="Failed">失败</string>
+    <string name="Success">成功</string>
+
+    <color  name="gray">#d3d3d3</color><!-- 亮灰色 -->
+    <color  name="red">#ff0000 </color><!-- 红色 -->
+    <color  name="green">#00ff7f </color><!-- 红色 -->
+</resources>
