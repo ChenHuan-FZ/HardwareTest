@@ -8,6 +8,7 @@
 下载[Demo.apk][1]
 
 #### 帮助支持
-有问题请前往 issues 讨论 
+有问题请前往 [issues][2] 讨论 
 
 [1]: https://gitee.com/sympetrumflaveolum/HardwareTest/attach_files/270492/download "APK"
+[2]:https://gitee.com/sympetrumflaveolum/HardwareTest/issues/new
